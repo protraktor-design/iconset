@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <rect x="11" y="2" width="2" height="3"/>
+  <rect x="11" y="19" width="2" height="3"/>
+  <rect x="19" y="11" width="3" height="2"/>
+  <rect x="2" y="11" width="3" height="2"/>
+  <rect x="16.51" y="4.99" width="3" height="2" transform="translate(1.04 14.49) rotate(-45)"/>
+  <rect x="4.49" y="17.01" width="3" height="2" transform="translate(-10.98 9.51) rotate(-45)"/>
+  <rect x="17.01" y="16.51" width="2" height="3" transform="translate(-7.46 18.01) rotate(-45)"/>
+  <rect x="4.99" y="4.49" width="2" height="3" transform="translate(-2.48 5.99) rotate(-45)"/>
+  <circle cx="12" cy="12" r="5"/>
+</svg>

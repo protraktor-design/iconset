@@ -1,0 +1,313 @@
+@font-face {
+    font-family: "Protraktor-Icons-36";
+    src: url("./Protraktor-Icons-36.woff?5561c12c2e42cb1fb4ad7f5e9291db15") format("woff"),
+url("./Protraktor-Icons-36.woff2?5561c12c2e42cb1fb4ad7f5e9291db15") format("woff2"),
+url("./Protraktor-Icons-36.ttf?5561c12c2e42cb1fb4ad7f5e9291db15") format("truetype"),
+url("./Protraktor-Icons-36.eot?5561c12c2e42cb1fb4ad7f5e9291db15#iefix") format("embedded-opentype");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: Protraktor-Icons-36 !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Alert-rhombus-fill:before {
+    content: "\f101";
+}
+.icon-Alert-rhombus-outline:before {
+    content: "\f102";
+}
+.icon-Alert-square-fill:before {
+    content: "\f103";
+}
+.icon-Alert-square-outline:before {
+    content: "\f104";
+}
+.icon-Alert-triangle-fill:before {
+    content: "\f105";
+}
+.icon-Alert-triangle-outline:before {
+    content: "\f106";
+}
+.icon-Arrow-down-outline:before {
+    content: "\f107";
+}
+.icon-Arrow-down:before {
+    content: "\f108";
+}
+.icon-Arrow-left-outline:before {
+    content: "\f109";
+}
+.icon-Arrow-left:before {
+    content: "\f10a";
+}
+.icon-Arrow-right-outline:before {
+    content: "\f10b";
+}
+.icon-Arrow-right:before {
+    content: "\f10c";
+}
+.icon-Arrow-up-outline:before {
+    content: "\f10d";
+}
+.icon-Arrow-up:before {
+    content: "\f10e";
+}
+.icon-Backward:before {
+    content: "\f10f";
+}
+.icon-Chevron-down-outline:before {
+    content: "\f110";
+}
+.icon-Chevron-down:before {
+    content: "\f111";
+}
+.icon-Chevron-left-outline:before {
+    content: "\f112";
+}
+.icon-Chevron-left:before {
+    content: "\f113";
+}
+.icon-Chevron-right-outline:before {
+    content: "\f114";
+}
+.icon-Chevron-right:before {
+    content: "\f115";
+}
+.icon-Chevron-up-down:before {
+    content: "\f116";
+}
+.icon-Chevron-up-outline:before {
+    content: "\f117";
+}
+.icon-Chevron-up:before {
+    content: "\f118";
+}
+.icon-Close-outline:before {
+    content: "\f119";
+}
+.icon-Close:before {
+    content: "\f11a";
+}
+.icon-Copy:before {
+    content: "\f11b";
+}
+.icon-Cursor-crosshair:before {
+    content: "\f11c";
+}
+.icon-Cursor-pointer:before {
+    content: "\f11d";
+}
+.icon-Dashboard-fill:before {
+    content: "\f11e";
+}
+.icon-Dashboard-outline:before {
+    content: "\f11f";
+}
+.icon-Delete-trash:before {
+    content: "\f120";
+}
+.icon-Edit-pencil:before {
+    content: "\f121";
+}
+.icon-Exclamation-fill:before {
+    content: "\f122";
+}
+.icon-Exclamation-outline:before {
+    content: "\f123";
+}
+.icon-Export:before {
+    content: "\f124";
+}
+.icon-Eye-closed:before {
+    content: "\f125";
+}
+.icon-Eye-off:before {
+    content: "\f126";
+}
+.icon-Eye-open:before {
+    content: "\f127";
+}
+.icon-Fast-backward:before {
+    content: "\f128";
+}
+.icon-Fast-forward:before {
+    content: "\f129";
+}
+.icon-Flag-pennant-fill:before {
+    content: "\f12a";
+}
+.icon-Flag-pennant-outline:before {
+    content: "\f12b";
+}
+.icon-Flag-rectangle-fill:before {
+    content: "\f12c";
+}
+.icon-Flag-rectangle-outline:before {
+    content: "\f12d";
+}
+.icon-Flag-swallowtail-fill:before {
+    content: "\f12e";
+}
+.icon-Flag-swallowtail-outline:before {
+    content: "\f12f";
+}
+.icon-Folder:before {
+    content: "\f130";
+}
+.icon-Forward:before {
+    content: "\f131";
+}
+.icon-Hamburger-menu:before {
+    content: "\f132";
+}
+.icon-Home:before {
+    content: "\f133";
+}
+.icon-Import:before {
+    content: "\f134";
+}
+.icon-Information-fill:before {
+    content: "\f135";
+}
+.icon-Information-outline:before {
+    content: "\f136";
+}
+.icon-Letter-mail:before {
+    content: "\f137";
+}
+.icon-Lock-off:before {
+    content: "\f138";
+}
+.icon-Lock-on:before {
+    content: "\f139";
+}
+.icon-Magnet:before {
+    content: "\f13a";
+}
+.icon-Minus-outline:before {
+    content: "\f13b";
+}
+.icon-Minus:before {
+    content: "\f13c";
+}
+.icon-Moon-night-fill:before {
+    content: "\f13d";
+}
+.icon-Moon-night-outline:before {
+    content: "\f13e";
+}
+.icon-New-document:before {
+    content: "\f13f";
+}
+.icon-Night:before {
+    content: "\f140";
+}
+.icon-Notification-bell-fill:before {
+    content: "\f141";
+}
+.icon-Notification-bell-outline:before {
+    content: "\f142";
+}
+.icon-Overflow-menu-vertical:before {
+    content: "\f143";
+}
+.icon-Pause:before {
+    content: "\f144";
+}
+.icon-Placeholder:before {
+    content: "\f145";
+}
+.icon-Play:before {
+    content: "\f146";
+}
+.icon-Plus-outline:before {
+    content: "\f147";
+}
+.icon-Plus:before {
+    content: "\f148";
+}
+.icon-Preferences:before {
+    content: "\f149";
+}
+.icon-Print:before {
+    content: "\f14a";
+}
+.icon-Question-fill:before {
+    content: "\f14b";
+}
+.icon-Question-outline:before {
+    content: "\f14c";
+}
+.icon-Record:before {
+    content: "\f14d";
+}
+.icon-Redo:before {
+    content: "\f14e";
+}
+.icon-Save:before {
+    content: "\f14f";
+}
+.icon-Search:before {
+    content: "\f150";
+}
+.icon-Settings-cog:before {
+    content: "\f151";
+}
+.icon-Star-fill:before {
+    content: "\f152";
+}
+.icon-Star-outline:before {
+    content: "\f153";
+}
+.icon-Stop:before {
+    content: "\f154";
+}
+.icon-Sun-fill:before {
+    content: "\f155";
+}
+.icon-Sun-outline:before {
+    content: "\f156";
+}
+.icon-Tick-outline:before {
+    content: "\f157";
+}
+.icon-Tick:before {
+    content: "\f158";
+}
+.icon-Triangle-down-outline:before {
+    content: "\f159";
+}
+.icon-Triangle-down:before {
+    content: "\f15a";
+}
+.icon-Triangle-left-outline:before {
+    content: "\f15b";
+}
+.icon-Triangle-left:before {
+    content: "\f15c";
+}
+.icon-Triangle-right-outline:before {
+    content: "\f15d";
+}
+.icon-Triangle-right:before {
+    content: "\f15e";
+}
+.icon-Triangle-up-down:before {
+    content: "\f15f";
+}
+.icon-Triangle-up-outline:before {
+    content: "\f160";
+}
+.icon-Triangle-up:before {
+    content: "\f161";
+}
+.icon-Undo:before {
+    content: "\f162";
+}

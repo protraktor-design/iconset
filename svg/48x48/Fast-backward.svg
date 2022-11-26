@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <polygon points="40 12 40 36 26 24 40 12"/>
+  <polygon points="26 12 26 36 12 24 26 12"/>
+  <rect x="8" y="12" width="4" height="24" transform="translate(20 48) rotate(180)"/>
+</svg>
