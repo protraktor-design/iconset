@@ -1,9 +1,9 @@
 @font-face {
     font-family: "Protraktor-Icons-36";
-    src: url("./Protraktor-Icons-36.woff?5561c12c2e42cb1fb4ad7f5e9291db15") format("woff"),
-url("./Protraktor-Icons-36.woff2?5561c12c2e42cb1fb4ad7f5e9291db15") format("woff2"),
-url("./Protraktor-Icons-36.ttf?5561c12c2e42cb1fb4ad7f5e9291db15") format("truetype"),
-url("./Protraktor-Icons-36.eot?5561c12c2e42cb1fb4ad7f5e9291db15#iefix") format("embedded-opentype");
+    src: url("./Protraktor-Icons-36.woff?8252f0d0a028a05a42f8b3d1520b77d4") format("woff"),
+url("./Protraktor-Icons-36.woff2?8252f0d0a028a05a42f8b3d1520b77d4") format("woff2"),
+url("./Protraktor-Icons-36.ttf?8252f0d0a028a05a42f8b3d1520b77d4") format("truetype"),
+url("./Protraktor-Icons-36.eot?8252f0d0a028a05a42f8b3d1520b77d4#iefix") format("embedded-opentype");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -17,109 +17,109 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Alert-rhombus-fill:before {
+.icon-Alert-circle-fill:before {
     content: "\f101";
 }
-.icon-Alert-rhombus-outline:before {
+.icon-Alert-circle-outline:before {
     content: "\f102";
 }
-.icon-Alert-square-fill:before {
+.icon-Alert-rhombus-fill:before {
     content: "\f103";
 }
-.icon-Alert-square-outline:before {
+.icon-Alert-rhombus-outline:before {
     content: "\f104";
 }
-.icon-Alert-triangle-fill:before {
+.icon-Alert-square-fill:before {
     content: "\f105";
 }
-.icon-Alert-triangle-outline:before {
+.icon-Alert-square-outline:before {
     content: "\f106";
 }
-.icon-Arrow-down-outline:before {
+.icon-Alert-triangle-fill:before {
     content: "\f107";
 }
-.icon-Arrow-down:before {
+.icon-Alert-triangle-outline:before {
     content: "\f108";
 }
-.icon-Arrow-left-outline:before {
+.icon-Arrow-down-outline:before {
     content: "\f109";
 }
-.icon-Arrow-left:before {
+.icon-Arrow-down:before {
     content: "\f10a";
 }
-.icon-Arrow-right-outline:before {
+.icon-Arrow-left-outline:before {
     content: "\f10b";
 }
-.icon-Arrow-right:before {
+.icon-Arrow-left:before {
     content: "\f10c";
 }
-.icon-Arrow-up-outline:before {
+.icon-Arrow-right-outline:before {
     content: "\f10d";
 }
-.icon-Arrow-up:before {
+.icon-Arrow-right:before {
     content: "\f10e";
 }
-.icon-Backward:before {
+.icon-Arrow-up-outline:before {
     content: "\f10f";
 }
-.icon-Chevron-down-outline:before {
+.icon-Arrow-up:before {
     content: "\f110";
 }
-.icon-Chevron-down:before {
+.icon-Backward:before {
     content: "\f111";
 }
-.icon-Chevron-left-outline:before {
+.icon-Chevron-down-outline:before {
     content: "\f112";
 }
-.icon-Chevron-left:before {
+.icon-Chevron-down:before {
     content: "\f113";
 }
-.icon-Chevron-right-outline:before {
+.icon-Chevron-left-outline:before {
     content: "\f114";
 }
-.icon-Chevron-right:before {
+.icon-Chevron-left:before {
     content: "\f115";
 }
-.icon-Chevron-up-down:before {
+.icon-Chevron-right-outline:before {
     content: "\f116";
 }
-.icon-Chevron-up-outline:before {
+.icon-Chevron-right:before {
     content: "\f117";
 }
-.icon-Chevron-up:before {
+.icon-Chevron-up-down:before {
     content: "\f118";
 }
-.icon-Close-outline:before {
+.icon-Chevron-up-outline:before {
     content: "\f119";
 }
-.icon-Close:before {
+.icon-Chevron-up:before {
     content: "\f11a";
 }
-.icon-Copy:before {
+.icon-Close-outline:before {
     content: "\f11b";
 }
-.icon-Cursor-crosshair:before {
+.icon-Close:before {
     content: "\f11c";
 }
-.icon-Cursor-pointer:before {
+.icon-Copy:before {
     content: "\f11d";
 }
-.icon-Dashboard-fill:before {
+.icon-Cursor-crosshair:before {
     content: "\f11e";
 }
-.icon-Dashboard-outline:before {
+.icon-Cursor-pointer:before {
     content: "\f11f";
 }
-.icon-Delete-trash:before {
+.icon-Dashboard-fill:before {
     content: "\f120";
 }
-.icon-Edit-pencil:before {
+.icon-Dashboard-outline:before {
     content: "\f121";
 }
-.icon-Exclamation-fill:before {
+.icon-Delete-trash:before {
     content: "\f122";
 }
-.icon-Exclamation-outline:before {
+.icon-Edit-pencil:before {
     content: "\f123";
 }
 .icon-Export:before {

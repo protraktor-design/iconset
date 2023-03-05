@@ -1,4 +1,6 @@
 export type ProtraktorIcons_36Id =
+  | "Alert-circle-fill"
+  | "Alert-circle-outline"
   | "Alert-rhombus-fill"
   | "Alert-rhombus-outline"
   | "Alert-square-fill"
@@ -32,8 +34,6 @@ export type ProtraktorIcons_36Id =
   | "Dashboard-outline"
   | "Delete-trash"
   | "Edit-pencil"
-  | "Exclamation-fill"
-  | "Exclamation-outline"
   | "Export"
   | "Eye-closed"
   | "Eye-off"
@@ -99,6 +99,8 @@ export type ProtraktorIcons_36Id =
   | "Undo";
 
 export type ProtraktorIcons_36Key =
+  | "AlertCircleFill"
+  | "AlertCircleOutline"
   | "AlertRhombusFill"
   | "AlertRhombusOutline"
   | "AlertSquareFill"
@@ -132,8 +134,6 @@ export type ProtraktorIcons_36Key =
   | "DashboardOutline"
   | "DeleteTrash"
   | "EditPencil"
-  | "ExclamationFill"
-  | "ExclamationOutline"
   | "Export"
   | "EyeClosed"
   | "EyeOff"
@@ -199,6 +199,8 @@ export type ProtraktorIcons_36Key =
   | "Undo";
 
 export enum ProtraktorIcons_36 {
+  AlertCircleFill = "Alert-circle-fill",
+  AlertCircleOutline = "Alert-circle-outline",
   AlertRhombusFill = "Alert-rhombus-fill",
   AlertRhombusOutline = "Alert-rhombus-outline",
   AlertSquareFill = "Alert-square-fill",
@@ -232,8 +234,6 @@ export enum ProtraktorIcons_36 {
   DashboardOutline = "Dashboard-outline",
   DeleteTrash = "Delete-trash",
   EditPencil = "Edit-pencil",
-  ExclamationFill = "Exclamation-fill",
-  ExclamationOutline = "Exclamation-outline",
   Export = "Export",
   EyeClosed = "Eye-closed",
   EyeOff = "Eye-off",
@@ -300,41 +300,41 @@ export enum ProtraktorIcons_36 {
 }
 
 export const PROTRAKTOR_ICONS_36_CODEPOINTS: { [key in ProtraktorIcons_36]: string } = {
-  [ProtraktorIcons_36.AlertRhombusFill]: "61697",
-  [ProtraktorIcons_36.AlertRhombusOutline]: "61698",
-  [ProtraktorIcons_36.AlertSquareFill]: "61699",
-  [ProtraktorIcons_36.AlertSquareOutline]: "61700",
-  [ProtraktorIcons_36.AlertTriangleFill]: "61701",
-  [ProtraktorIcons_36.AlertTriangleOutline]: "61702",
-  [ProtraktorIcons_36.ArrowDownOutline]: "61703",
-  [ProtraktorIcons_36.ArrowDown]: "61704",
-  [ProtraktorIcons_36.ArrowLeftOutline]: "61705",
-  [ProtraktorIcons_36.ArrowLeft]: "61706",
-  [ProtraktorIcons_36.ArrowRightOutline]: "61707",
-  [ProtraktorIcons_36.ArrowRight]: "61708",
-  [ProtraktorIcons_36.ArrowUpOutline]: "61709",
-  [ProtraktorIcons_36.ArrowUp]: "61710",
-  [ProtraktorIcons_36.Backward]: "61711",
-  [ProtraktorIcons_36.ChevronDownOutline]: "61712",
-  [ProtraktorIcons_36.ChevronDown]: "61713",
-  [ProtraktorIcons_36.ChevronLeftOutline]: "61714",
-  [ProtraktorIcons_36.ChevronLeft]: "61715",
-  [ProtraktorIcons_36.ChevronRightOutline]: "61716",
-  [ProtraktorIcons_36.ChevronRight]: "61717",
-  [ProtraktorIcons_36.ChevronUpDown]: "61718",
-  [ProtraktorIcons_36.ChevronUpOutline]: "61719",
-  [ProtraktorIcons_36.ChevronUp]: "61720",
-  [ProtraktorIcons_36.CloseOutline]: "61721",
-  [ProtraktorIcons_36.Close]: "61722",
-  [ProtraktorIcons_36.Copy]: "61723",
-  [ProtraktorIcons_36.CursorCrosshair]: "61724",
-  [ProtraktorIcons_36.CursorPointer]: "61725",
-  [ProtraktorIcons_36.DashboardFill]: "61726",
-  [ProtraktorIcons_36.DashboardOutline]: "61727",
-  [ProtraktorIcons_36.DeleteTrash]: "61728",
-  [ProtraktorIcons_36.EditPencil]: "61729",
-  [ProtraktorIcons_36.ExclamationFill]: "61730",
-  [ProtraktorIcons_36.ExclamationOutline]: "61731",
+  [ProtraktorIcons_36.AlertCircleFill]: "61697",
+  [ProtraktorIcons_36.AlertCircleOutline]: "61698",
+  [ProtraktorIcons_36.AlertRhombusFill]: "61699",
+  [ProtraktorIcons_36.AlertRhombusOutline]: "61700",
+  [ProtraktorIcons_36.AlertSquareFill]: "61701",
+  [ProtraktorIcons_36.AlertSquareOutline]: "61702",
+  [ProtraktorIcons_36.AlertTriangleFill]: "61703",
+  [ProtraktorIcons_36.AlertTriangleOutline]: "61704",
+  [ProtraktorIcons_36.ArrowDownOutline]: "61705",
+  [ProtraktorIcons_36.ArrowDown]: "61706",
+  [ProtraktorIcons_36.ArrowLeftOutline]: "61707",
+  [ProtraktorIcons_36.ArrowLeft]: "61708",
+  [ProtraktorIcons_36.ArrowRightOutline]: "61709",
+  [ProtraktorIcons_36.ArrowRight]: "61710",
+  [ProtraktorIcons_36.ArrowUpOutline]: "61711",
+  [ProtraktorIcons_36.ArrowUp]: "61712",
+  [ProtraktorIcons_36.Backward]: "61713",
+  [ProtraktorIcons_36.ChevronDownOutline]: "61714",
+  [ProtraktorIcons_36.ChevronDown]: "61715",
+  [ProtraktorIcons_36.ChevronLeftOutline]: "61716",
+  [ProtraktorIcons_36.ChevronLeft]: "61717",
+  [ProtraktorIcons_36.ChevronRightOutline]: "61718",
+  [ProtraktorIcons_36.ChevronRight]: "61719",
+  [ProtraktorIcons_36.ChevronUpDown]: "61720",
+  [ProtraktorIcons_36.ChevronUpOutline]: "61721",
+  [ProtraktorIcons_36.ChevronUp]: "61722",
+  [ProtraktorIcons_36.CloseOutline]: "61723",
+  [ProtraktorIcons_36.Close]: "61724",
+  [ProtraktorIcons_36.Copy]: "61725",
+  [ProtraktorIcons_36.CursorCrosshair]: "61726",
+  [ProtraktorIcons_36.CursorPointer]: "61727",
+  [ProtraktorIcons_36.DashboardFill]: "61728",
+  [ProtraktorIcons_36.DashboardOutline]: "61729",
+  [ProtraktorIcons_36.DeleteTrash]: "61730",
+  [ProtraktorIcons_36.EditPencil]: "61731",
   [ProtraktorIcons_36.Export]: "61732",
   [ProtraktorIcons_36.EyeClosed]: "61733",
   [ProtraktorIcons_36.EyeOff]: "61734",
